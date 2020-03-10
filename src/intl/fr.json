@@ -1,0 +1,16 @@
+{
+    "title": "🥖Gatsby France",
+    "description": "Démarre un nouveau projet gatsby avec ce template",
+    "hello": "Bonjour,",
+    "welcome": "Bienvenue sur votre nouveau site Gatsby.",
+    "title_page2": "Page deux",
+    "hello_page2": "Bonjour depuis la deuxieme page",
+    "go_page2": "Allez vers la deuxieme page",
+    "build": "Fait quelque chose de cool avec ce template!",
+    "welcome_page2": "Bienvenue sur la page 2",
+    "go_back": "Retourner à l'accueil",
+    "notfound": {
+      "header": "Non trouvé",
+      "description": "Cette route n'existe pas"
+    }
+  }
